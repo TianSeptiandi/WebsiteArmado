@@ -1,0 +1,48 @@
+body {
+    background-color: tomato;
+} 
+.Teknikal {
+    border: 1px solid red;
+    padding: 10px;
+    margin: 5px;
+}
+.Progres {
+    border: 1px solid red;
+    padding: 10px;
+    margin: 5px;
+}
+.Spray {
+    border: 1px solid orange;
+    padding: 10px;
+    margin: 5px;
+}
+.Masking {
+    border: 1px solid orange;
+    padding: 10px;
+    margin: 5px;
+}
+.AfterSpray {
+    border: 1px solid orange;
+    padding: 10px;
+    margin: 5px;
+}
+.Unit3Cmasihbermasalah {
+    border: 1px solid red;
+    padding: 10px;
+    margin: 5px;
+}
+.TeknikalPerorangan {
+    border: 1px solid red;
+    padding: 10px;
+    margin: 5px;
+}
+.SprayPerorangan {
+    border: 1px solid orange;
+    padding: 10px;
+    margin: 5px;
+}
+.TigaCok {
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 5px;
+}

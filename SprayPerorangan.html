@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spray Perorangan</title>
+</head>
+
+<body>
+
+  <h2>Input Data Spray Perorangan</h2>
+
+  <table>
+    <tr>
+      <td><label>Tanggal</label></td>
+      <td><input type="date" id="Tanggal"></td>
+    </tr>
+    <tr>
+      <td><label>Nama</label></td>
+      <td><input type="text" id="nama"></td>
+    </tr>
+    <tr>
+      <td><label>No Frame</label></td>
+      <td><input type="text" id="NoFrame"></td>
+    </tr>
+  </table>
+
+  <br>
+
+  <button id="simpan">Simpan</button>
+  <button onclick="batalEdit()">Batal Edit</button>
+
+  <div id="mode" style="color:red; margin-top:10px;"></div>
+
+  <hr>
+
+  <h3>Data</h3>
+  <ul id="daftar"></ul>
+
+  <script type="module" src="SprayPerorangan.js"></script>
+
+</body>
+</html>
